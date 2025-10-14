@@ -1,0 +1,44 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_ALU_behav xil_defaultlib.tb_ALU xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/ALU.v" Line 1. Module ALU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sum4b.v" Line 2. Module sum4b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/rest4b.v" Line 1. Module rest4b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/multiplicador.v" Line 1. Module multiplicador doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/ALU.v" Line 1. Module ALU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sum4b.v" Line 2. Module sum4b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/sumador1b.v" Line 1. Module sum1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/rest4b.v" Line 1. Module rest4b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/restador.v" Line 1. Module rest1b doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sources_1/new/multiplicador.v" Line 1. Module multiplicador doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.sum1b
+Compiling module xil_defaultlib.sum4b
+Compiling module xil_defaultlib.rest1b
+Compiling module xil_defaultlib.rest4b
+Compiling module xil_defaultlib.multiplicador
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.tb_ALU
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_ALU_behav

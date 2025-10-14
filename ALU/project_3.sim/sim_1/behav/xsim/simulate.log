@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+t=0ns | opcode=000 | A= 0 | B= 0 | resultado=  0 | overflow=0 | zero=1 | done=0 | start=0 | rst=1
+t=30ns | opcode=000 | A= 5 | B= 3 | resultado=  8 | overflow=0 | zero=0 | done=0 | start=0 | rst=0
+t=60ns | opcode=001 | A= 6 | B= 3 | resultado=  3 | overflow=0 | zero=0 | done=0 | start=0 | rst=0
+t=90ns | opcode=010 | A= 5 | B= 2 | resultado=  0 | overflow=0 | zero=1 | done=0 | start=1 | rst=0
+t=100ns | opcode=010 | A= 5 | B= 2 | resultado=  0 | overflow=0 | zero=1 | done=0 | start=0 | rst=0
+t=125ns | opcode=010 | A= 5 | B= 2 | resultado=  0 | overflow=0 | zero=1 | done=1 | start=0 | rst=0
+t=135ns | opcode=010 | A= 5 | B= 2 | resultado= 10 | overflow=0 | zero=0 | done=0 | start=0 | rst=0
+t=145ns | opcode=010 | A= 5 | B= 2 | resultado=  0 | overflow=0 | zero=1 | done=0 | start=0 | rst=1
+t=155ns | opcode=100 | A=15 | B= 5 | resultado= 14 | overflow=1 | zero=0 | done=0 | start=0 | rst=0
+✅ Fin de simulación
+$finish called at time : 185 ns : File "C:/Users/kevin/github-classroom/digital-electronics-UNAL/lab01-g2-e4-1/multiplicador/project_3/project_3.srcs/sim_1/new/tb_ALU.v" Line 85
