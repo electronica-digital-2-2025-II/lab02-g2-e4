@@ -80,6 +80,12 @@ module tb_ALU();
         opcode = 3'b100; // SHIFT LEFT
         #30;
 
+        // --- Prueba 5: Compuerta NAND ---
+        A = 4'b1100; // 12
+        B = 4'b1010; // 10
+        opcode = 3'b011; // NAND
+        #30;
+
         // --- Fin ---
         $display("✅ Fin de simulación");
         $finish;
