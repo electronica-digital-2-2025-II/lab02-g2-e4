@@ -22,6 +22,8 @@ Indice:
 
 ## Simulaciones 
 
+![](https://github.com/electronica-digital-2-2025-II/lab02-g2-e4/blob/main/imagenes/simulaci%C3%B3n.png)
+
 ## Implementación
 
 ## Conclusiones
